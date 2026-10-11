@@ -1,0 +1,15 @@
+{
+  "name": "COLBily",
+  "short_name": "COLBily",
+  "description": "Toda tu plata en un solo lugar.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0A211D",
+  "theme_color": "#0A211D",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
